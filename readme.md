@@ -1,6 +1,6 @@
 # Captions
 
-This is a Github Repo containing all the captions for my video courses. Edits are very welcome as the transcribers who create these aren't 100% perfect. 
+This is a Github Repo containing all the captions for my video courses. Edits are very welcome as the transcribers who create these aren't 100% perfect.
 
 `RFB` → [React For Beginners](https://ReactForBeginners.com)
 
@@ -12,12 +12,17 @@ This is a Github Repo containing all the captions for my video courses. Edits ar
 
 `GRID` → [CSS Grid.io](https://CSSGrid.io)
 
+`WTF` → [Flexbox.io](https://flexbox.io)
+
+`ARG` → [Advanced React](https://AdvancedReact.com)
+
+`BJS` → [Beginner JavaScript](https://BeginnerJavaScript.com)
+
+`GAT` → [Master Gatsby](https://MasterGatsby.com)
+
 
 ## Translations
-Translations are welcome - just append the language code to the file name. Example: 
+Translations are welcome - just append the language code to the file name. Example:
 
 * English: `04 - Temporal Dead Zone.vtt`
 * Portuguese (Brazil): `04 - Temporal Dead Zone-pt-BR.vtt`
-
-
-
